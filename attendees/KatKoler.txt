@@ -1,5 +1,0 @@
-Hi, I'm Kat
-
-This is my first PyCon!
-
-Find me on twitter @katkoler

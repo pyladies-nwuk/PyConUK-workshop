@@ -1,6 +1,6 @@
 Hello,
 
-I am Deltabug. This is my first PyCon.
+I am deltabug. This is my first PyCon.
 I like Dragons
 
-Follow me @Deltabug 
+Follow me @deltabug 

@@ -1,0 +1,5 @@
+Hi, I'm Vicky
+
+This is also my first pycon, but not my first *con.
+
+Follow me on twitter @vkes
